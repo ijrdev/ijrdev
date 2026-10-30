@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://ivanildo-junior-dev.vercel.app/og-engenheiro-ia.png" alt="Ivanildo Junior — Engenheiro de IA. Software, dados e IA." width="100%" />
-</p>
-
-# Ivanildo Junior
+# 👋 Ivanildo Junior
 
 **Engenheiro de IA | Backend | Desenvolvimento Full Stack**
 
@@ -18,19 +14,23 @@ Atuo desde a compreensão do problema até a construção e evolução de aplica
 
 ## 🎓 Formação
 
-- **Bacharelado em Sistemas de Informação** — Universidade Estácio de Sá · 2019–2023
-- **Técnico em Informática em Desenvolvimento de Sistemas** — Escola Técnica Estadual Miguel Batista · 2017–2019
+| Formação | Instituição | Período |
+| --- | --- | --- |
+| Bacharelado em Sistemas de Informação | Universidade Estácio de Sá | 2019–2023 |
+| Técnico em Informática em Desenvolvimento de Sistemas | Escola Técnica Estadual Miguel Batista | 2017–2019 |
 
 ---
 
 ## 💼 Experiência profissional
 
-- **Kurier** — Engenheiro de IA · jul. 2025 – atual
-- **Kurier** — Desenvolvedor Pleno Full Stack · jul. 2023 – jul. 2025
-- **AgroGalaxy** — Desenvolvedor Pleno Backend · set. 2022 – jul. 2023
-- **Kurier** — Desenvolvedor Júnior Full Stack · mar. 2021 – set. 2022
-- **Salvus** — Estagiário em Desenvolvimento de Software · jun. 2020 – mar. 2021
-- **Antonio Braz & Vanya Maia Advogados Associados** — Estagiário em Desenvolvimento de Projetos · out. 2019 – abr. 2020
+| Cargo | Empresa | Período |
+| --- | --- | --- |
+| Engenheiro de IA | Kurier | jul. 2025 – atual |
+| Desenvolvedor Pleno Full Stack | Kurier | jul. 2023 – jul. 2025 |
+| Desenvolvedor Pleno Backend | AgroGalaxy | set. 2022 – jul. 2023 |
+| Desenvolvedor Júnior Full Stack | Kurier | mar. 2021 – set. 2022 |
+| Estagiário em Desenvolvimento de Software | Salvus | jun. 2020 – mar. 2021 |
+| Estagiário em Desenvolvimento de Projetos | Antonio Braz & Vanya Maia Advogados Associados | out. 2019 – abr. 2020 |
 
 ---
 
