@@ -1,65 +1,76 @@
-<h1 align="center">Olá! <br> Me chamo Ivanildo Junior :wink:</h1>
+# Ivanildo Junior
 
-[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanildo-junior-dev/)
+**Engenheiro de IA | Backend | Desenvolvimento Full Stack**
 
-<h2 align="left">Apresentação</h2>
+## Sobre
 
-<ul>
-  <li> Sou:
-    <ul>
-      <li>Educado;</li>
-      <li>Extrovertido;</li>
-      <li>Organizado;</li>
-      <li>Analítico;</li>
-      <li>Focado.</li>
-    </ul>
-  </li>
-  <li>Apesar de ter atuado maior tempo da experiência com desenvolvimento Full Stack, me identifico mais com o Back End e Mobile;</li>
-  <li>Estou sempre colocando em prática e estudando alguma tecnologia;</li>
-  <li>Gosto de fazer projetos, onde o intuito sempre é praticar, mas com objetivo em colocar alguma ideia em funcionamento ou resolver algum problema.</li>
-</ul>
+Sou engenheiro de IA e desenvolvedor de software com mais de seis anos de experiência, combinando uma trajetória em backend e desenvolvimento full stack com atuação em inteligência artificial generativa.
 
-<h2 align="left">Projetos</h2>
+Atuo desde a compreensão do problema até a construção e evolução de aplicações, conectando tecnologia, dados e processos. Busco criar soluções que possam ser integradas, mantidas e aprimoradas ao longo do tempo.
 
-<h3 align="left">Código Guia :memo:</h3>
-<a href="https://codigoguia.netlify.app/" target="_blank"> https://codigoguia.netlify.app/ </a>
+## Formação
 
-<p>Quando me solicitavam algum material de estudo de programação, sempre corria atrás para pesquisar e organizar, para depois enviá-lo. Era algo repetitivo, onde sempre era o mesmo processo. Decidi então, criar o projeto Código Guia, onde tem um guia com vários materiais voltados para o aprendizado inicial de quem realmente deseja aprender a programar. Possui uma timeline simples e objetiva, onde a cada tópico descrito terá todo seu conteúdo de estudo no menu de navegação.</p>
+- **Bacharelado em Sistemas de Informação** — Universidade Estácio de Sá · 2019–2023
+- **Técnico em Informática em Desenvolvimento de Sistemas** — Escola Técnica Estadual Miguel Batista · 2017–2019
 
-<p><strong>OBS:</strong> Lembrando que todo conteúdo é sugestivo a partir de experiências própria e opiniões.</p>
+## Experiência profissional
 
-<h3 align="left">Organ Card :credit_card:</h3>
-<a href="https://organ-card.vercel.app" target="_blank"> https://organ-card.vercel.app </a>
+- **Kurier** — Engenheiro de IA · jul. 2025 – atual
+- **Kurier** — Desenvolvedor Pleno Full Stack · jul. 2023 – jul. 2025
+- **AgroGalaxy** — Desenvolvedor Pleno Backend · set. 2022 – jul. 2023
+- **Kurier** — Desenvolvedor Júnior Full Stack · mar. 2021 – set. 2022
+- **Salvus** — Estagiário em Desenvolvimento de Software · jun. 2020 – mar. 2021
+- **Antonio Braz & Vanya Maia Advogados Associados** — Estagiário em Desenvolvimento de Projetos · out. 2019 – abr. 2020
 
-<p>Ao realizar o levantamento mensal das faturas dos cartões de crédito, sempre foi um desafio, por causa da quantidade de cartões e pessoas que utilizam. Procurei uma alternativa para deixar esse processo menos trabalhoso e substituir a forma que era utilizada. O projeto Organ Card surgiu com o intuito de simplificar, agilizar e trazer uma tranquilidade na organização dos cartões, onde é possível saber com exatidão quem/quanto tá devendo, até qual mês/ano a compra será paga, maior devedor, maior cartão em uso, etc. Com todas esses recursos o que antes era feito mensalmente, passou a ser feito uma única vez no registro de alguma compra no sistema.</p>
+## Tecnologias e conhecimentos
 
-<p>O futuro do projeto é levar sua atuação para o mobile. Para isso, estou estudando Flutter (Dart) para que consiga esse feito. Com a proporção de crescimento que os aplicativos tem em relação a sites, e também pelos recursos contidos nas plataformas mobile, diversas novas funcionalidades já estão sendo planejadas para que não seja além de um projeto de uso pessoal, mas sim, algo que tome um proporção bem maior.</p>
+### Backend
 
-<h2 align="left">Linguagens e Ferramentas</h2>
-
-<p align="center">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+<p>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="40" height="40" /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" width="40" height="40" /></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask" width="40" height="40" /></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" width="40" height="40" /></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET" width="40" height="40" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="40" height="40" /></a>
+  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" width="40" height="40" /></a>
+  <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" title="Laravel" width="40" height="40" /></a>
 </p>
 
-<p align="center">
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-<a href="https://dart.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://flutter.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
+ASP.NET Web API · APIs · Integrações · Automações · Web scraping
+
+### Web
+
+<p>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" width="40" height="40" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript" width="40" height="40" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="40" height="40" /></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="40" height="40" /></a>
 </p>
 
-<p align="center">
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqls" width="40" height="40" />
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgres" width="40" height="40"/> </a>
-</a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+### Dados e infraestrutura
+
+<p>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="40" height="40" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="40" height="40" /></a>
+  <a href="https://www.elastic.co/elasticsearch"><img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" title="Elasticsearch" width="40" height="40" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="40" height="40" /></a>
+  <a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" title="Azure" width="40" height="40" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" width="40" height="40" /></a>
+  <a href="https://opensearch.org/"><img src="https://cdn.simpleicons.org/opensearch/4BB889" alt="OpenSearch" title="OpenSearch" width="40" height="40" /></a>
 </p>
+
+SQL Server
+
+### Inteligência artificial e automação
+
+<p>
+  <a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/4BB889" alt="LangChain" title="LangChain" width="40" height="40" /></a>
+  <a href="https://www.langchain.com/langgraph"><img src="https://cdn.simpleicons.org/langgraph/4BB889" alt="LangGraph" title="LangGraph" width="40" height="40" /></a>
+  <a href="https://n8n.io/"><img src="https://cdn.simpleicons.org/n8n/4BB889" alt="n8n" title="n8n" width="40" height="40" /></a>
+</p>
+
+RAG · Embeddings · Agentes de IA · MCP · Engenharia de prompts · Codex
+
+[Portfólio](https://ivanildo-junior-dev.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ivanildo-junior-dev/)
