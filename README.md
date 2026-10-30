@@ -1,6 +1,6 @@
 # Ivanildo Junior
 
-**Engenheiro de IA | Backend | Desenvolvimento Full Stack**
+**Engenheiro de IA | Back-end | Python | IA Generativa | LangChain | LangGraph | Agentes de IA | RAG | LLMOps**
 
 ---
 
