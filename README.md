@@ -1,4 +1,4 @@
-# 👋 Ivanildo Junior
+# Ivanildo Junior
 
 **Engenheiro de IA | Backend | Desenvolvimento Full Stack**
 
