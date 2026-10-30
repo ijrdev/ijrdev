@@ -45,7 +45,7 @@ ASP.NET Web API · APIs · Integrações · Automações · Web scraping
   <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" width="40" height="40" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript" width="40" height="40" /></a>
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="40" height="40" /></a>
-  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="40" height="40" /></a>
+  <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" title="Vue.js" width="40" height="40" /></a>
 </p>
 
 ### Dados e infraestrutura
@@ -72,5 +72,7 @@ SQL Server
 </p>
 
 RAG · Embeddings · Agentes de IA · MCP · Engenharia de prompts · Codex
+
+## Contato
 
 [Portfólio](https://ivanildo-junior-dev.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ivanildo-junior-dev/)
