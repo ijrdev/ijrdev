@@ -44,16 +44,6 @@ Atuo desde o entendimento das necessidades de negócio até a construção e evo
 | Dados | SQL Server, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch, OpenSearch |
 | Infra e práticas | Docker, AWS, Azure, Jenkins, Linux, RabbitMQ, Git Flow, Scrum, Technical documentation, Requirements analysis |
 
-## 📚 Knowledge
-
-| Area | Knowledge |
-| --- | --- |
-| Languages | Python, C#, PHP, JavaScript, TypeScript |
-| Frameworks and libraries | Node.js, React, Vue.js, FastAPI, Flask, Django, ASP.NET, Laravel, LangChain, LangGraph |
-| AI and automation tools | OpenAI, n8n, Codex, Claude Code |
-| Data and infrastructure | SQL, NoSQL, Elasticsearch, RabbitMQ, Docker, Azure, AWS |
-| Practices | REST APIs, Testing |
-
 ---
 
 ## 🤝 Contato
