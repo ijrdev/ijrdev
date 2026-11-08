@@ -6,7 +6,9 @@
 
 ## 👤 Sobre
 
-Sou engenheiro de software especializado em backend e inteligência artificial, com mais de seis anos de experiência no desenvolvimento de aplicações e soluções tecnológicas. Trabalho desde o entendimento das necessidades de negócio até a construção e evolução de aplicações, conectando tecnologia, dados e processos para apoiar as operações.
+Sou engenheiro de software especializado em backend e inteligência artificial, com mais de seis anos de experiência no desenvolvimento de aplicações e soluções tecnológicas.
+
+Atuo desde o entendimento das necessidades de negócio até a construção e evolução de aplicações, conectando tecnologia, dados e processos para apoiar as operações.
 
 ---
 
@@ -37,18 +39,18 @@ Sou engenheiro de software especializado em backend e inteligência artificial, 
 | Área | Tecnologias |
 | --- | --- |
 | IA aplicada | LangChain, LangGraph, Deep Agents, MCP, n8n, Codex, Claude Code |
-| Backend | Python, FastAPI, Flask, Django, C#, .NET, ASP.NET Web API, PHP, Laravel, Node.js |
-| Frontend | HTML, CSS, JavaScript, TypeScript, React, Vue.js |
+| Back-end | Python, FastAPI, Flask, Django, C#, .NET, ASP.NET Web API, PHP, Laravel, Node.js |
+| Front-end | HTML, CSS, JavaScript, TypeScript, React, Vue.js |
 | Dados | SQL Server, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch, OpenSearch |
-| Infraestrutura | Docker, AWS, Azure, Jenkins, Linux, RabbitMQ |
+| Infra e práticas | Docker, AWS, Azure, Jenkins, Linux, RabbitMQ |
 
-## 📚 Conhecimentos
+## 📚 Knowledge
 
-| Área | Conhecimentos |
+| Area | Knowledge |
 | --- | --- |
-| IA aplicada | RAG, embeddings, agentes de IA, multiagentes, guardrails, LLMOps, IA generativa, engenharia de prompts, workflows |
-| Backend | APIs REST, web scraping, scripts, automação |
-| Práticas | Git Flow, Scrum, documentação técnica, análise de requisitos |
+| Applied AI | RAG, Embeddings, AI agents, Multi-agents, Guardrails, LLMOps, Generative AI, Prompt engineering, Workflows |
+| Backend | REST APIs, Web scraping, Scripts, Automation |
+| Infrastructure and practices | Git Flow, Scrum, Technical documentation, Requirements analysis |
 
 ---
 
@@ -56,5 +58,5 @@ Sou engenheiro de software especializado em backend e inteligência artificial, 
 
 | Canal | Link |
 | --- | --- |
-| Portfólio | [ivanildo-junior-dev.vercel.app](https://ivanildo-junior-dev.vercel.app/) |
 | LinkedIn | [linkedin.com/in/ivanildo-junior-dev](https://www.linkedin.com/in/ivanildo-junior-dev/) |
+| Portfólio | [ivanildo-junior-dev.vercel.app](https://ivanildo-junior-dev.vercel.app/) |
