@@ -1,14 +1,12 @@
 # Ivanildo Junior
 
-**Engenheiro de IA | Back-end | Python | IA Generativa | LangChain | LangGraph | Agentes de IA | RAG | LLMOps**
+**Backend & AI Engineer | Python | Generative AI | AI Agents | LangChain & LangGraph | RAG | Prompt Engineer | LLMOps**
 
 ---
 
 ## 👤 Sobre
 
-Sou engenheiro de IA e desenvolvedor de software com mais de seis anos de experiência, combinando uma trajetória em backend e desenvolvimento full stack com atuação em inteligência artificial generativa.
-
-Atuo desde a compreensão do problema até a construção e evolução de aplicações, conectando tecnologia, dados e processos. Busco criar soluções que possam ser integradas, mantidas e aprimoradas ao longo do tempo.
+Sou engenheiro de software especializado em backend e inteligência artificial, com mais de seis anos de experiência no desenvolvimento de aplicações e soluções tecnológicas. Trabalho desde o entendimento das necessidades de negócio até a construção e evolução de aplicações, conectando tecnologia, dados e processos para apoiar as operações.
 
 ---
 
@@ -34,19 +32,29 @@ Atuo desde a compreensão do problema até a construção e evolução de aplica
 
 ---
 
-## 🛠️ Tecnologias e conhecimentos
+## 🛠️ Tecnologias
 
-| Área | Tecnologias e conhecimentos |
+| Área | Tecnologias |
 | --- | --- |
-| **IA aplicada** | LangChain, LangGraph, Deep Agents, RAG, embeddings, agentes de IA, MCP, n8n, LLMOps, IA generativa, engenharia de prompts, workflows, Codex e Claude Code |
-| **Backend** | Python, FastAPI, Flask, Django, C#, .NET, ASP.NET Web API, PHP, Laravel, Node.js, APIs REST, web scraping, scripts e automações |
-| **Frontend** | HTML, CSS, JavaScript, TypeScript, React e Vue.js |
-| **Dados** | SQL Server, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch e OpenSearch |
-| **Infraestrutura e práticas** | Docker, AWS, Azure, Jenkins, Linux, RabbitMQ, Git Flow, documentação técnica e análise de requisitos |
+| IA aplicada | LangChain, LangGraph, Deep Agents, MCP, n8n, Codex, Claude Code |
+| Backend | Python, FastAPI, Flask, Django, C#, .NET, ASP.NET Web API, PHP, Laravel, Node.js |
+| Frontend | HTML, CSS, JavaScript, TypeScript, React, Vue.js |
+| Dados | SQL Server, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch, OpenSearch |
+| Infraestrutura | Docker, AWS, Azure, Jenkins, Linux, RabbitMQ |
+
+## 📚 Conhecimentos
+
+| Área | Conhecimentos |
+| --- | --- |
+| IA aplicada | RAG, embeddings, agentes de IA, multiagentes, guardrails, LLMOps, IA generativa, engenharia de prompts, workflows |
+| Backend | APIs REST, web scraping, scripts, automação |
+| Práticas | Git Flow, Scrum, documentação técnica, análise de requisitos |
 
 ---
 
 ## 🤝 Contato
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-174F46?style=for-the-badge&logo=vercel&logoColor=white)](https://ivanildo-junior-dev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-174F46?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanildo-junior-dev/)
+| Canal | Link |
+| --- | --- |
+| Portfólio | [ivanildo-junior-dev.vercel.app](https://ivanildo-junior-dev.vercel.app/) |
+| LinkedIn | [linkedin.com/in/ivanildo-junior-dev](https://www.linkedin.com/in/ivanildo-junior-dev/) |
