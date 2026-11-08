@@ -38,19 +38,21 @@ Atuo desde o entendimento das necessidades de negócio até a construção e evo
 
 | Área | Tecnologias |
 | --- | --- |
-| IA aplicada | LangChain, LangGraph, Deep Agents, MCP, n8n, Codex, Claude Code |
-| Back-end | Python, FastAPI, Flask, Django, C#, .NET, ASP.NET Web API, PHP, Laravel, Node.js |
+| IA aplicada | LangChain, LangGraph, Deep Agents, RAG, Embeddings, AI agents, Multi-agents, Guardrails, MCP, n8n, LLMOps, Generative AI, Prompt engineering, Workflows, Codex, Claude Code |
+| Back-end | Python, FastAPI, Flask, Django, C#, .NET, ASP.NET Web API, PHP, Laravel, Node.js, REST APIs, Web scraping, Scripts, Automation |
 | Front-end | HTML, CSS, JavaScript, TypeScript, React, Vue.js |
 | Dados | SQL Server, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch, OpenSearch |
-| Infra e práticas | Docker, AWS, Azure, Jenkins, Linux, RabbitMQ |
+| Infra e práticas | Docker, AWS, Azure, Jenkins, Linux, RabbitMQ, Git Flow, Scrum, Technical documentation, Requirements analysis |
 
 ## 📚 Knowledge
 
 | Area | Knowledge |
 | --- | --- |
-| Applied AI | RAG, Embeddings, AI agents, Multi-agents, Guardrails, LLMOps, Generative AI, Prompt engineering, Workflows |
-| Backend | REST APIs, Web scraping, Scripts, Automation |
-| Infrastructure and practices | Git Flow, Scrum, Technical documentation, Requirements analysis |
+| Languages | Python, C#, PHP, JavaScript, TypeScript |
+| Frameworks and libraries | Node.js, React, Vue.js, FastAPI, Flask, Django, ASP.NET, Laravel, LangChain, LangGraph |
+| AI and automation tools | OpenAI, n8n, Codex, Claude Code |
+| Data and infrastructure | SQL, NoSQL, Elasticsearch, RabbitMQ, Docker, Azure, AWS |
+| Practices | REST APIs, Testing |
 
 ---
 
